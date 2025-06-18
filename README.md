@@ -1,2 +1,2 @@
-# My-Apps
-For linux Fedora
+# Important:
+DO NOT COPY PLEASE
