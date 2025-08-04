@@ -10,5 +10,5 @@ sudo dnf install https://github.com/bk0515299/My-Apps/releases/download/favtools
 ```
 Or ⬇️
 ``` 
-sudo curl -fsSL https://github.com/bk0515299/My-Apps/blob/main/install-my-tools.sh | bash
+sudo curl -fsSL https://github.com/bk0515299/My-Apps/raw/refs/heads/main/install-my-tools.sh | bash
 ```
