@@ -8,3 +8,7 @@ https://github.com/bk0515299/My-Apps/releases
 ``` 
 sudo dnf install https://github.com/bk0515299/My-Apps/releases/download/favtools-v1.0.0/my-tools-1.0-1.fc42.noarch.rpm
 ```
+Or ⬇️
+``` 
+curl -fsSL https://github.com/bk0515299/My-Apps/blob/main/install-my-tools.sh | bash
+```
