@@ -1,7 +1,7 @@
 # My Apps
 ## To install my apps go to ⬇️
 ``` 
-https://bk0515299.github.io/My-Apps/install.html
+https://bk0515299.github.io/My-Apps/install.htm
 ```
 or:
 ``` 
